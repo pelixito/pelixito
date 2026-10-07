@@ -2,4 +2,5 @@
 <p align = 'center'>
     <img src='gifs/goblins.gif' width = '120'>
     <img src='gifs/eye.gif' width = '120'>
+    <img src='gifs/cheers.gif' width = '120'>
 </p>
