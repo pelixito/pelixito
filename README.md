@@ -1,7 +1,8 @@
-﻿<h1 align = 'center'> hi, i'm mark..</h1>
+﻿<h1 align = 'center'> hi, i'm mark.</h1>
 <p align = 'center'>
     <img src='gifs/goblins.gif' width = '120'>
     <img src='gifs/eye.gif' width = '120'>
     <img src='gifs/cheers.gif' width = '120'>
     <img src='gifs/4leaf.gif' width = '120'>
 </p>
+
